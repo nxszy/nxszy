@@ -1,6 +1,10 @@
-### Hi there 👋
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lekton&duration=4000&pause=500&color=F7F7F7&center=true&vCenter=true&multiline=true&random=false&width=800&height=80&lines=Hi+there!+%F0%9F%91%8B+I'm+Simon.;Computer+Science+Student.+Data+Analysis+and+Machine+Learning+enthusiast." alt="Typing SVG" /></a>
+</p>
 
+<p align="center">
 ![LeetCode Stats](https://leetcard.jacoblin.cool/nxszy?theme=dark&font=Lekton&ext=heatmap)
+</p>
 
 <!--
 **nxszy/nxszy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
