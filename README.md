@@ -1,10 +1,22 @@
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lekton&duration=4000&pause=500&color=F7F7F7&center=true&vCenter=true&multiline=true&random=false&width=800&height=80&lines=Hi+there!+%F0%9F%91%8B+I'm+Simon.;Computer+Science+Student.+Data+Analysis+and+Machine+Learning+enthusiast." alt="Typing SVG" /></a>
+  <img src="./github-banner.png" />
 </p>
 
-<p align="center">
-![LeetCode Stats](https://leetcard.jacoblin.cool/nxszy?theme=dark&font=Lekton&ext=heatmap)
-</p>
+## About me :bowtie:
+
+- 👨‍🎓 Studying Computer Science and Intelligent Systems on AGH Kraków.
+- 👷 Currently developing **Gerb**.
+- 📖 Currently learning Python and its AI-related modules.
+- 📞 How to reach me: nizinski.szy@gmail.com
+- ✨ Fun fact: I love hitting the gym 🍚🍗 and playing computer games 🎮!
+
+## IT related free time activities 💻
+
+I love (depends on the task, sometimes I hate) doing some leetcode problems:
+  
+[![LeetCode Stats](https://leetcard.jacoblin.cool/nxszy?theme=dark&font=Red%20Hat%20Display&ext=heatmap)
+
+## Tech stack 👨‍💻
 
 <!--
 **nxszy/nxszy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
