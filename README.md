@@ -18,7 +18,7 @@ I love (depends on the task, sometimes I hate) doing some leetcode problems:
 
 ## Tech stack 👨‍💻
 
-I work mostly in Python and its Data/AI related modules. The more aesthetic tech-stack presentation below 😃!
+I mostly work with Python and its Data/AI related modules. The more aesthetic tech-stack presentation below 😃!
 
 <div align="center">
   <table>
