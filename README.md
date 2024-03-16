@@ -4,7 +4,7 @@
 
 ## About me :bowtie:
 
-- 👨‍🎓 Studying Computer Science and Intelligent Systems on AGH Kraków.
+- 👨‍🎓 Studying Computer Science and Intelligent Systems at AGH Cracow.
 - 👷 Currently developing **Gerb**.
 - 📖 Currently learning Python and its AI-related modules.
 - 📞 How to reach me: nizinski.szy@gmail.com
